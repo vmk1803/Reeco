@@ -1,0 +1,18 @@
+.order-page-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.order-page-nav li {
+    display: inline-block;
+}
+
+.order-page-nav a::before {
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 10px;
+}

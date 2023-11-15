@@ -1,0 +1,64 @@
+{
+    "supplier": "East coast fruits & vegetables",
+    "shipping_date": "2023-11-14T16:31:28.588Z",
+    "total": 15028.3,
+    "category": "",
+    "department": "300-444-678",
+    "status": "Awaiting your approvel",
+    "products": [{
+        "productName": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+        "brand": "Hormel Black Labelmany",
+        "price": 60.67,
+        "size": 1,
+        "sizeUnits": "LB",
+        "quantity": 15,
+        "itemsPerProduct": 6,
+        "status": "",
+        "id": 1,
+        "imageName": "avocado_hass.jpg"
+    }, {
+        "productName": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+        "brand": "Hormel Black Labelmany",
+        "price": 60.67,
+        "quantity": 15,
+        "itemsPerProduct": 6,
+        "size": 1,
+        "sizeUnits": "LB",
+        "status": "",
+        "id": 2,
+        "imageName": "avocado_hass.jpg"
+    }, {
+        "productName": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+        "brand": "Hormel Black Labelmany",
+        "price": 60.67,
+        "itemsPerProduct": 6,
+        "quantity": 0,
+        "size": 1,
+        "sizeUnits": "LB",
+        "status": "",
+        "id": 3,
+        "imageName": "avocado_hass.jpg"
+    }, {
+        "productName": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+        "brand": "Hormel Black Labelmany",
+        "price": 60.67,
+        "itemsPerProduct": 6,
+        "size": 1,
+        "sizeUnits": "LB",
+        "quantity": 13,
+        "status": "",
+        "id": 4,
+        "imageName": "avocado_hass.jpg"
+    }, {
+        "productName": "Chicken Breast Fillets, Boneless matuu maMarinated 6 Ounce Raw, Invivid",
+        "brand": "Hormel Black Labelmany",
+        "price": 60.67,
+        "quantity": 0,
+        "size": 1,
+        "sizeUnits": "LB",
+        "itemsPerProduct": 6,
+        "status": "",
+        "id": 5,
+        "imageName": "avocado_hass.jpg"
+    }]
+}
