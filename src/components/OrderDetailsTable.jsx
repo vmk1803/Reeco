@@ -137,7 +137,7 @@ const OrderDetailsTable = () => {
                     return <OrderTableRow borderBottom={index + 1 < userOrderDetails?.products?.length} key={`${orderDetailObj.id}_${index}`}>
                         {productHeadings.map((productHeadingObj) => {
                             return <OrderTableColumn style={{ textAlign: 'center' }} key={productHeadingObj.fieldName}>
-                                {productHeadingObj.type === 'image' ? <img src={`/assets/${orderDetailObj.imageName}`} width='50' height='50' alt={orderDetailObj[`${productHeadingObj.fieldName}`]} /> : ''}
+                                {productHeadingObj.type === 'image' ? <img src={`/${orderDetailObj.imageName}`} width='50' height='50' alt={orderDetailObj[`${productHeadingObj.fieldName}`]} /> : ''}
                                 {productHeadingObj.type === 'text' ? <Commonpara color="grey" fontsize="14px">{orderDetailObj[`${productHeadingObj.fieldName}`]}</Commonpara> : ''}
                                 {productHeadingObj.type === 'price' ?
                                     <Commonpara color="grey" fontsize="14px">
